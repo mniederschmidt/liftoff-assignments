@@ -24,3 +24,4 @@ I would like to create a Budget Tracker application, which would allow the user 
 * JavaScript
 * Front-End Frameworks
 * How to Deploy an Application
+* Authentication
