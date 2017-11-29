@@ -14,6 +14,7 @@ I would like to create a Budget Tracker application, which would allow the user 
 
 ## Possible Features To Add Later:
 
+* Mobile (iOS) app to allow users to enter expenses at the store
 * Ability to capture photos with mobile app to save receipts if needed
 * Queries for expenses by payment type (credit card "A", debit card, etc.) which allow user to enter date range.  This could be used to check against statements so users could identify potentially fraudulent charges.
 * Ability to enter a transaction as a split.  The user should be able to optionally enter a sales tax rate and the total split amount should calculate automatically.
