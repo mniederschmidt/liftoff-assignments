@@ -3,10 +3,10 @@
 <p>For this assiignmen you will need to upload your resume, link your GitHub profile, and your LinkedIn profile.</p>
 
 <h3>Resume</h3>
-<p>Upload .PDF of your resume here</p>
+[Resume](https://github.com/mniederschmidt/liftoff-assignments/tree/master/career_03/Resume.PDF)
 
 <h3>Github</h3>
-<p>Provide a link to your github account here</p>
+[Github Account](https://github.com/mniederschmidt)
 
 <h3>LinkedIn</h3>
-<p>Provide a link to your LinkedIn profile here</p>
+[LinkedIn Profile](https://www.linkedin.com/in/maryniederschmidt/)
