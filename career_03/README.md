@@ -1,12 +1,10 @@
 <h1>Online Profiles</h1>
 
-<p>For this assiignmen you will need to upload your resume, link your GitHub profile, and your LinkedIn profile.</p>
-
 <h3>Resume</h3>
-[Resume](https://github.com/mniederschmidt/liftoff-assignments/tree/master/career_03/Resume.PDF)
+<a href = "https://github.com/mniederschmidt/liftoff-assignments/tree/master/career_03/Resume.PDF" target="_blank">Resume</a>
 
 <h3>Github</h3>
-[Github Account](https://github.com/mniederschmidt)
+<a href = "https://github.com/mniederschmidt" target="_blank">Github</a>
 
 <h3>LinkedIn</h3>
-[LinkedIn Profile](https://www.linkedin.com/in/maryniederschmidt/)
+<a href="https://www.linkedin.com/in/maryniederschmidt" target="_blank">Resume</a>
