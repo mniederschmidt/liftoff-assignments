@@ -4,7 +4,7 @@
 <a href = "https://github.com/mniederschmidt/liftoff-assignments/tree/master/career_03/Resume.PDF" target="_blank">Resume</a>
 
 <h3>Github</h3>
-<a href = "https://github.com/mniederschmidt" target="_blank">Github</a>
+<a href = "https://github.com/mniederschmidt" target="_blank">Github Repository</a>
 
 <h3>LinkedIn</h3>
-<a href="https://www.linkedin.com/in/maryniederschmidt" target="_blank">Resume</a>
+<a href="https://www.linkedin.com/in/maryniederschmidt" target="_blank">LinkedIn Profile</a>
