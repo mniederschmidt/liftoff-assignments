@@ -12,10 +12,14 @@
 
 <h3>Questions</h3>
 <p>A list of questions and answers from the meetup. To really learn from a meektup you need to be <b>engaged</b>. So ask some questions, and list them here!</p>
-* The speaker mentioned a strengths inventory she had taken and found really useful.  After her presentation, I asked her what that test was and she said it was the StrengthsFinder and she was really enthusiastic about how it helps people learn how to work better together by utilizing each person's unique strengths.
-* I asked some of the front-end developers which frameworks they would recommend learning, and they said that it all depends and changes rapidly, but Node.js, React, and Angular were good ones to learn.
+<ul>
+	<li>The speaker mentioned a strengths inventory she had taken and found really useful.  After her presentation, I asked her what that test was and she said it was the StrengthsFinder and she was really enthusiastic about how it helps people learn how to work better together by utilizing each person's unique strengths.</li>
+	<li>I asked some of the front-end developers which frameworks they would recommend learning, and they said that it all depends and changes rapidly, but Node.js, React, and Angular were good ones to learn.</li>
+</ul>
 
 <h3>Continued Learning</h3>
 <p>For this final section, include some resources for learning more about the topic at hand.</p>
-* StrengthsFinder 2.0 book
-* StrengthsFinder assessment (Gallup)
+<ul>
+	<li>StrengthsFinder 2.0 book</li>
+	<li>StrengthsFinder assessment (Gallup)</li>
+</ul>
