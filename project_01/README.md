@@ -23,14 +23,15 @@ I would like to create a Budget Tracker application, which would allow the user 
 
 ## Technologies
 
-* Java back-end to store budget information and expenses in database
+* Java 8
+* Spring Boot
 * HTML/CSS/JavaScript front-end to establish budget categories and add expenses
 * Mobile app written in Swift to add expenses and capture photos of receipts
-* Database - possibly MySQL
+* MySQL Database 
 
 ## What I'll Have to Learn
 
 * JavaScript
 * Front-End Frameworks
 * How to Deploy an Application
-* Authentication
+* Publishing a Web Site
